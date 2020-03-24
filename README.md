@@ -9,6 +9,6 @@ OK to do listi
 3. Búa til SVG teikningu
 4. Setja auglýsinguna og svg teikninguna í vefinn
 
-Leiðbeiningar eru í INNU, VEFÞ2VH, EFNI
+#### Leiðbeiningar eru í INNU, VEFÞ2VH, EFNI
 
 mk Guðmundur
